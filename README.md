@@ -93,8 +93,9 @@ plt.axis("off")
 <br>
 <br>
 <br>
-<img width="500" height="500" alt="download" src="https://github.com/user-attachments/assets/05221d45-d1e1-4167-8aa5-de2659983c42" />
 
+
+<img width="389" height="411" alt="download" src="https://github.com/user-attachments/assets/e0122fec-89f5-49fa-9c6b-6be3a88af4ae" />
 
 
 <br>
@@ -104,7 +105,7 @@ plt.axis("off")
 ### Display the Eroded Image
 <br>
 <br>
-<img width="389" height="411" alt="download" src="https://github.com/user-attachments/assets/a8be5fae-68c3-4a91-9c0d-32fee7e572a3" />
+<img width="389" height="411" alt="download" src="https://github.com/user-attachments/assets/54667008-a1f8-4df2-90c5-38587f3e9c76" />
 
 
 <br>
@@ -115,8 +116,7 @@ plt.axis("off")
 <br>
 <br>
 <br>
-
-<img width="389" height="411" alt="download" src="https://github.com/user-attachments/assets/c5db9313-815c-4cfa-8124-fdd3be2d8ecc" />
+<img width="389" height="411" alt="download" src="https://github.com/user-attachments/assets/3008a240-f192-419f-9994-d0e456cde9d7" />
 
 
 
